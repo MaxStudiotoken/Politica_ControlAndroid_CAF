@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - CPU Monitor</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0b0f14;
+            color: #e8e8e8;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 40px 25px;
+        }
+
+        h1 {
+            color: #00bfff;
+        }
+
+        h2 {
+            color: #39d98a;
+            margin-top: 30px;
+        }
+
+        a {
+            color: #00bfff;
+        }
+
+        .footer {
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 1px solid #333;
+            color: #aaa;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Política de Privacidad</h1>
+
+    <p>
+        Esta Política de Privacidad se aplica a la aplicación <strong>CPU Monitor</strong>,
+        desarrollada por <strong>MaxStudio</strong>.
+    </p>
+
+    <h2>1. Recopilación de datos</h2>
+
+    <p>
+        CPU Monitor no recopila, almacena, transmite ni comparte datos personales de los usuarios.
+    </p>
+
+    <p>
+        La aplicación no requiere registro, creación de cuenta, nombre, correo electrónico,
+        número de teléfono ni ningún otro dato personal.
+    </p>
+
+    <h2>2. Información del dispositivo</h2>
+
+    <p>
+        La aplicación puede mostrar información técnica disponible localmente en el dispositivo,
+        como uso de CPU, memoria RAM, almacenamiento, temperatura y otros datos relacionados
+        con el rendimiento del dispositivo.
+    </p>
+
+    <p>
+        Esta información se utiliza únicamente para mostrarla al usuario dentro de la aplicación
+        y no se envía a servidores externos.
+    </p>
+
+    <h2>3. Compartición de datos</h2>
+
+    <p>
+        CPU Monitor no vende, comparte ni proporciona información personal a terceros.
+    </p>
+
+    <h2>4. Seguimiento y publicidad</h2>
+
+    <p>
+        La aplicación no realiza seguimiento de los usuarios y no crea perfiles personales
+        sobre su actividad.
+    </p>
+
+    <h2>5. Seguridad</h2>
+
+    <p>
+        Al no recopilar ni almacenar datos personales en servidores externos,
+        no existe una base de datos de usuarios gestionada por MaxStudio.
+    </p>
+
+    <h2>6. Privacidad de menores</h2>
+
+    <p>
+        La aplicación no recopila intencionadamente información personal de menores de edad
+        ni de ningún otro usuario.
+    </p>
+
+    <h2>7. Cambios en esta política</h2>
+
+    <p>
+        Esta Política de Privacidad podrá actualizarse si en el futuro cambian las funciones
+        de la aplicación. Cualquier modificación será publicada en esta misma página.
+    </p>
+
+    <h2>8. Contacto</h2>
+
+    <p>
+        Desarrollador: <strong>MaxStudio</strong>
+    </p>
+
+    <p>
+        Correo electrónico:
+        <a href="mailto:maxi1985_19@hotmail.com">
+            maxi1985_19@hotmail.com
+        </a>
+    </p>
+
+    <div class="footer">
+        Última actualización: 20 de septiembre de 2026<br>
+        © 2026 MaxStudio
+    </div>
+
+</div>
+
+</body>
+</html>
